@@ -1,8 +1,8 @@
 {
+  "homepage": "http://BehzadShahid319.github.io/Web-Assignment01",
   "name": "app1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://BehzadShahid319.github.io/ReactJS-Web-Assignment01",
   "engines": {
     "node": "12.18.4",
     "npm": "6.14.6"
