@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/BehzadShahid319.github.io/Web-Assignemnt01/static/css/main.71b81f8c.chunk.css",
-    "main.js": "/BehzadShahid319.github.io/Web-Assignemnt01/static/js/main.adf9d9d4.chunk.js",
-    "main.js.map": "/BehzadShahid319.github.io/Web-Assignemnt01/static/js/main.adf9d9d4.chunk.js.map",
-    "runtime-main.js": "/BehzadShahid319.github.io/Web-Assignemnt01/static/js/runtime-main.8b0a1a80.js",
-    "runtime-main.js.map": "/BehzadShahid319.github.io/Web-Assignemnt01/static/js/runtime-main.8b0a1a80.js.map",
-    "static/js/2.6fa80c51.chunk.js": "/BehzadShahid319.github.io/Web-Assignemnt01/static/js/2.6fa80c51.chunk.js",
-    "static/js/2.6fa80c51.chunk.js.map": "/BehzadShahid319.github.io/Web-Assignemnt01/static/js/2.6fa80c51.chunk.js.map",
-    "index.html": "/BehzadShahid319.github.io/Web-Assignemnt01/index.html",
-    "precache-manifest.80ff0467a5889b49675e5bdb2d31e0e0.js": "/BehzadShahid319.github.io/Web-Assignemnt01/precache-manifest.80ff0467a5889b49675e5bdb2d31e0e0.js",
-    "service-worker.js": "/BehzadShahid319.github.io/Web-Assignemnt01/service-worker.js",
-    "static/css/main.71b81f8c.chunk.css.map": "/BehzadShahid319.github.io/Web-Assignemnt01/static/css/main.71b81f8c.chunk.css.map",
-    "static/js/2.6fa80c51.chunk.js.LICENSE.txt": "/BehzadShahid319.github.io/Web-Assignemnt01/static/js/2.6fa80c51.chunk.js.LICENSE.txt",
-    "static/media/WreckCover.png": "/BehzadShahid319.github.io/Web-Assignemnt01/static/media/WreckCover.dae6d43d.png",
-    "static/media/WreckExplo.mp4": "/BehzadShahid319.github.io/Web-Assignemnt01/static/media/WreckExplo.17c7d7b8.mp4"
+    "main.css": "/Web-Assignment01/static/css/main.71b81f8c.chunk.css",
+    "main.js": "/Web-Assignment01/static/js/main.dd52d78f.chunk.js",
+    "main.js.map": "/Web-Assignment01/static/js/main.dd52d78f.chunk.js.map",
+    "runtime-main.js": "/Web-Assignment01/static/js/runtime-main.9b799359.js",
+    "runtime-main.js.map": "/Web-Assignment01/static/js/runtime-main.9b799359.js.map",
+    "static/js/2.6fa80c51.chunk.js": "/Web-Assignment01/static/js/2.6fa80c51.chunk.js",
+    "static/js/2.6fa80c51.chunk.js.map": "/Web-Assignment01/static/js/2.6fa80c51.chunk.js.map",
+    "index.html": "/Web-Assignment01/index.html",
+    "precache-manifest.92d76c885824ac8ecbaaeff8a2669137.js": "/Web-Assignment01/precache-manifest.92d76c885824ac8ecbaaeff8a2669137.js",
+    "service-worker.js": "/Web-Assignment01/service-worker.js",
+    "static/css/main.71b81f8c.chunk.css.map": "/Web-Assignment01/static/css/main.71b81f8c.chunk.css.map",
+    "static/js/2.6fa80c51.chunk.js.LICENSE.txt": "/Web-Assignment01/static/js/2.6fa80c51.chunk.js.LICENSE.txt",
+    "static/media/WreckCover.png": "/Web-Assignment01/static/media/WreckCover.dae6d43d.png",
+    "static/media/WreckExplo.mp4": "/Web-Assignment01/static/media/WreckExplo.17c7d7b8.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b0a1a80.js",
+    "static/js/runtime-main.9b799359.js",
     "static/js/2.6fa80c51.chunk.js",
     "static/css/main.71b81f8c.chunk.css",
-    "static/js/main.adf9d9d4.chunk.js"
+    "static/js/main.dd52d78f.chunk.js"
   ]
 }
